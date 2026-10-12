@@ -2,73 +2,73 @@
  {
   "abbreviation": "SV",
   "name": "Statenvertaling (1637, spelling 1888)",
-  "timestamp": 1791831951923,
+  "timestamp": 1791833838884,
   "path": "SV.zip"
  },
  {
   "abbreviation": "AVD",
   "name": "Arabic Van Dyck (1865)",
-  "timestamp": 1791831953659,
+  "timestamp": 1791833840642,
   "path": "AVD.zip"
  },
  {
   "abbreviation": "LUT",
   "name": "Luther 1912",
-  "timestamp": 1791831954455,
+  "timestamp": 1791833841513,
   "path": "LUT.zip"
  },
  {
-  "abbreviation": "RV",
-  "name": "Reina-Valera 1909",
-  "timestamp": 1791831955179,
-  "path": "RV.zip"
+  "abbreviation": "RVG",
+  "name": "Reina-Valera Gómez",
+  "timestamp": 1791833842491,
+  "path": "RVG.zip"
  },
  {
   "abbreviation": "DIO",
   "name": "Diodati (Italiaans)",
-  "timestamp": 1791831955818,
+  "timestamp": 1791833843241,
   "path": "DIO.zip"
  },
  {
   "abbreviation": "OST",
   "name": "Ostervald (Frans)",
-  "timestamp": 1791831956646,
+  "timestamp": 1791833844206,
   "path": "OST.zip"
  },
  {
   "abbreviation": "BKR",
   "name": "Bible kralická (1613)",
-  "timestamp": 1791831957223,
+  "timestamp": 1791833844851,
   "path": "BKR.zip"
  },
  {
   "abbreviation": "SYN",
   "name": "Russische Synodale vertaling",
-  "timestamp": 1791831958364,
+  "timestamp": 1791833846081,
   "path": "SYN.zip"
  },
  {
   "abbreviation": "SRP",
   "name": "Daničić–Karadžić (1865)",
-  "timestamp": 1791831958862,
+  "timestamp": 1791833846354,
   "path": "SRP.zip"
  },
  {
-  "abbreviation": "TR",
-  "name": "Textus Receptus (Grieks NT)",
-  "timestamp": 1791831960568,
-  "path": "TR.zip"
+  "abbreviation": "GRC",
+  "name": "Grieks (Septuaginta + Textus Receptus)",
+  "timestamp": 1791833848504,
+  "path": "GRC.zip"
  },
  {
   "abbreviation": "HEB",
   "name": "Hebreeuws (WLC + Salkinson–Ginsburg)",
-  "timestamp": 1791831964244,
+  "timestamp": 1791833851010,
   "path": "HEB.zip"
  },
  {
   "abbreviation": "PSH",
   "name": "Pesjitta (oude Syrische getuige)",
-  "timestamp": 1791831966808,
+  "timestamp": 1791833852325,
   "path": "PSH.zip"
  }
 ]
