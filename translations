@@ -1,74 +1,74 @@
 [
  {
   "abbreviation": "SV",
-  "name": "Statenvertaling (1637, spelling 1888)",
-  "timestamp": 1791834597344,
+  "name": "Statenvertaling (Dutch, 1637)",
+  "timestamp": 1791835056220,
   "path": "SV.zip"
  },
  {
   "abbreviation": "AVD",
-  "name": "Arabic Van Dyck (1865)",
-  "timestamp": 1791834599232,
+  "name": "Van Dyck (Arabic, 1865)",
+  "timestamp": 1791835057989,
   "path": "AVD.zip"
  },
  {
   "abbreviation": "LUT",
-  "name": "Luther 1912",
-  "timestamp": 1791834600212,
+  "name": "Luther (German, 1912)",
+  "timestamp": 1791835058862,
   "path": "LUT.zip"
  },
  {
   "abbreviation": "RVG",
-  "name": "Reina-Valera Gómez",
-  "timestamp": 1791834601590,
+  "name": "Reina-Valera Gómez (Spanish)",
+  "timestamp": 1791835059664,
   "path": "RVG.zip"
  },
  {
   "abbreviation": "DIO",
-  "name": "Diodati (Italiaans)",
-  "timestamp": 1791834602325,
+  "name": "Diodati (Italian, 1641)",
+  "timestamp": 1791835060333,
   "path": "DIO.zip"
  },
  {
   "abbreviation": "OST",
-  "name": "Ostervald (Frans)",
-  "timestamp": 1791834603565,
+  "name": "Ostervald (French)",
+  "timestamp": 1791835061215,
   "path": "OST.zip"
  },
  {
   "abbreviation": "BKR",
-  "name": "Bible kralická (1613)",
-  "timestamp": 1791834604234,
+  "name": "Bible kralická (Czech, 1613)",
+  "timestamp": 1791835061830,
   "path": "BKR.zip"
  },
  {
   "abbreviation": "SYN",
-  "name": "Russische Synodale vertaling",
-  "timestamp": 1791834605535,
+  "name": "Synodal (Russian)",
+  "timestamp": 1791835063034,
   "path": "SYN.zip"
  },
  {
   "abbreviation": "SRP",
-  "name": "Daničić–Karadžić (1865)",
-  "timestamp": 1791834605796,
+  "name": "Daničić–Karadžić (Serbian, 1865)",
+  "timestamp": 1791835063267,
   "path": "SRP.zip"
  },
  {
   "abbreviation": "GRC",
-  "name": "Grieks (Septuaginta + Textus Receptus)",
-  "timestamp": 1791834608432,
+  "name": "Septuagint + Textus Receptus (Greek)",
+  "timestamp": 1791835065132,
   "path": "GRC.zip"
  },
  {
   "abbreviation": "HEB",
-  "name": "Hebreeuws (WLC + Salkinson–Ginsburg)",
-  "timestamp": 1791834611031,
+  "name": "Westminster Leningrad Codex + Salkinson–Ginsburg (Hebrew)",
+  "timestamp": 1791835067662,
   "path": "HEB.zip"
  },
  {
   "abbreviation": "PSH",
-  "name": "Pesjitta",
-  "timestamp": 1791834612645,
+  "name": "Peshitta (Syriac)",
+  "timestamp": 1791835068948,
   "path": "PSH.zip"
  }
 ]
