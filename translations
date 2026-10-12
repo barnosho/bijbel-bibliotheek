@@ -3,72 +3,72 @@
   "abbreviation": "SV",
   "name": "Statenvertaling (1637, spelling 1888)",
   "timestamp": 1791831951923,
-  "path": "translations/SV.zip"
+  "path": "SV.zip"
  },
  {
   "abbreviation": "AVD",
   "name": "Arabic Van Dyck (1865)",
   "timestamp": 1791831953659,
-  "path": "translations/AVD.zip"
+  "path": "AVD.zip"
  },
  {
   "abbreviation": "LUT",
   "name": "Luther 1912",
   "timestamp": 1791831954455,
-  "path": "translations/LUT.zip"
+  "path": "LUT.zip"
  },
  {
   "abbreviation": "RV",
   "name": "Reina-Valera 1909",
   "timestamp": 1791831955179,
-  "path": "translations/RV.zip"
+  "path": "RV.zip"
  },
  {
   "abbreviation": "DIO",
   "name": "Diodati (Italiaans)",
   "timestamp": 1791831955818,
-  "path": "translations/DIO.zip"
+  "path": "DIO.zip"
  },
  {
   "abbreviation": "OST",
   "name": "Ostervald (Frans)",
   "timestamp": 1791831956646,
-  "path": "translations/OST.zip"
+  "path": "OST.zip"
  },
  {
   "abbreviation": "BKR",
   "name": "Bible kralická (1613)",
   "timestamp": 1791831957223,
-  "path": "translations/BKR.zip"
+  "path": "BKR.zip"
  },
  {
   "abbreviation": "SYN",
   "name": "Russische Synodale vertaling",
   "timestamp": 1791831958364,
-  "path": "translations/SYN.zip"
+  "path": "SYN.zip"
  },
  {
   "abbreviation": "SRP",
   "name": "Daničić–Karadžić (1865)",
   "timestamp": 1791831958862,
-  "path": "translations/SRP.zip"
+  "path": "SRP.zip"
  },
  {
   "abbreviation": "TR",
   "name": "Textus Receptus (Grieks NT)",
   "timestamp": 1791831960568,
-  "path": "translations/TR.zip"
+  "path": "TR.zip"
  },
  {
   "abbreviation": "HEB",
   "name": "Hebreeuws (WLC + Salkinson–Ginsburg)",
   "timestamp": 1791831964244,
-  "path": "translations/HEB.zip"
+  "path": "HEB.zip"
  },
  {
   "abbreviation": "PSH",
   "name": "Pesjitta (oude Syrische getuige)",
   "timestamp": 1791831966808,
-  "path": "translations/PSH.zip"
+  "path": "PSH.zip"
  }
 ]
