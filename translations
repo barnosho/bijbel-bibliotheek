@@ -2,13 +2,13 @@
  {
   "abbreviation": "SV",
   "name": "Statenvertaling (Dutch, 1637)",
-  "timestamp": 1792004013977,
+  "timestamp": 1792107215934,
   "path": "SV.zip"
  },
  {
   "abbreviation": "AVD",
   "name": "Van Dyck (Arabic, 1865)",
-  "timestamp": 1792004017452,
+  "timestamp": 1792107215934,
   "path": "AVD.zip"
  },
  {
@@ -26,49 +26,49 @@
  {
   "abbreviation": "DIO",
   "name": "Diodati (Italian, 1641)",
-  "timestamp": 1792004021677,
+  "timestamp": 1792107215934,
   "path": "DIO.zip"
  },
  {
   "abbreviation": "OST",
   "name": "Ostervald (French)",
-  "timestamp": 1792004023174,
+  "timestamp": 1792107215934,
   "path": "OST.zip"
  },
  {
   "abbreviation": "BKR",
   "name": "Bible kralická (Czech, 1613)",
-  "timestamp": 1792004023974,
+  "timestamp": 1792107215934,
   "path": "BKR.zip"
  },
  {
   "abbreviation": "SYN",
   "name": "Synodal (Russian)",
-  "timestamp": 1792004025443,
+  "timestamp": 1792107215934,
   "path": "SYN.zip"
  },
  {
   "abbreviation": "SRP",
   "name": "Daničić–Karadžić (Serbian, 1865)",
-  "timestamp": 1792004026091,
+  "timestamp": 1792107215934,
   "path": "SRP.zip"
  },
  {
   "abbreviation": "GRC",
   "name": "Septuagint + Textus Receptus (Greek)",
-  "timestamp": 1792004029207,
+  "timestamp": 1792107215934,
   "path": "GRC.zip"
  },
  {
   "abbreviation": "HEB",
   "name": "Westminster Leningrad Codex + Delitzsch (Hebrew)",
-  "timestamp": 1792004032747,
+  "timestamp": 1792107215934,
   "path": "HEB.zip"
  },
  {
   "abbreviation": "PSH",
   "name": "Peshitta (Syriac)",
-  "timestamp": 1792004035594,
+  "timestamp": 1792107215934,
   "path": "PSH.zip"
  }
 ]
